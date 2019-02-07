@@ -1,0 +1,23 @@
+html{
+	background-image: url("../Images/success.png"); 
+background-size:cover;
+background-repeat:no-repeat;
+background-position:center;
+}
+p{
+	position: left;
+	width: 500px;
+	margin:auto;
+	margin-top: 300px;
+	border:1px solid #80ffff;
+	 padding: 20px;
+  box-shadow: 2px 10px grey;
+	color: black;
+	background-color: #80ffff;
+	-webkit-border-radius: 12px;
+    border-radius: 10px;
+	text-align: center;
+	font-family: "verdana", verdana, sans-serif;
+	font-size: 20px;
+	
+}
