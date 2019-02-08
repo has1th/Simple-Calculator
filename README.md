@@ -11,3 +11,10 @@
 * Css3
 * Apache/2.2.34
 * Tomcat 8
+
+# **Apache Integration with Tomcat and Running on SSL/TLS**
+* Please Refer Apache Integration with Tomcat and Running on SSL.docx above for a walkthrough of
+   * Installing Tomcat
+   * Installing Apache
+   * Integrating Apache with Tomcat
+   * Configuring SSL
